@@ -1,0 +1,15 @@
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\bin\Debug\net6.0\Task13.exe
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\bin\Debug\net6.0\Task13.deps.json
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\bin\Debug\net6.0\Task13.runtimeconfig.json
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\bin\Debug\net6.0\Task13.dll
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\bin\Debug\net6.0\Task13.pdb
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\obj\Debug\net6.0\Task13.csproj.AssemblyReference.cache
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\obj\Debug\net6.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\obj\Debug\net6.0\Task13.AssemblyInfoInputs.cache
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\obj\Debug\net6.0\Task13.AssemblyInfo.cs
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\obj\Debug\net6.0\Task13.csproj.CoreCompileInputs.cache
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\obj\Debug\net6.0\Task13.dll
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\obj\Debug\net6.0\refint\Task13.dll
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\obj\Debug\net6.0\Task13.pdb
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\obj\Debug\net6.0\Task13.genruntimeconfig.cache
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task13\obj\Debug\net6.0\ref\Task13.dll

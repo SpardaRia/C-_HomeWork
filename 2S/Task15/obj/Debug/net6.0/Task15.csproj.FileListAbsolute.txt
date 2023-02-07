@@ -1,0 +1,15 @@
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\bin\Debug\net6.0\Task15.exe
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\bin\Debug\net6.0\Task15.deps.json
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\bin\Debug\net6.0\Task15.dll
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\bin\Debug\net6.0\Task15.pdb
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\obj\Debug\net6.0\Task15.dll
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\obj\Debug\net6.0\refint\Task15.dll
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\obj\Debug\net6.0\Task15.pdb
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+C:\Shool\Знакомство C#\Семинары\HomeWork\2S\Task15\obj\Debug\net6.0\ref\Task15.dll
